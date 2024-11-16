@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vallabhgagliya
 - 👀 I’m interested in software devlopment
 - 🌱 I’m currently learning data structure and  Algorithms
-- 📫 How to reach me www.linkedin.com/in/vallabhgagliya10
+- 📫 How to reach me https://www.linkedin.com/in/vallabhgagliya10
 
 
 
